@@ -1,26 +1,34 @@
 #!/usr/bin/python3
-
-"""
-Divides a matrix
+""" matrix_divided divides the given matrix
+by the parameter "div", and returns the divided matrix
 """
 
 
 def matrix_divided(matrix, div):
+    """ Divides all elements of a matrix by "div"
+    checks if the entire list is int/float
+    checks if each list in the matrix are the same size
+    checks if "div" is an int/float or is 0
     """
-    Function that divides a matrix
-    """
-    listError = 'matrix must be a matrix (list of lists) of integers/floats'
-    sizeError = 'Each row of the matrix must have the same size'
-    if type(matrix) is not list:
-        raise TypeError(listError)
-    for item in range(len(matrix)):
-        if item is not 0:
-            result = item - 1
-            if len(matrix[item]) is not len(matrix[result]):
-                raise TypeError(sizeError)
-    if isinstance(div, int) is False:
-        raise TypeError('div must be a number')
-    if div is 0:
-        raise ZeroDivisionError('division by zero')
+    mes0 = "matrix must be a matrix (list of lists) of integers/floats"
+    mes1 = "Each row of the matrix must have the same size"
+    res_matrix = []
 
-    return [[round(item / div, 2) for item in m_list] for m_list in matrix]
+    if not isinstance(div, (int, float)):
+        raise TypeError("div must be a number")
+
+    if div == 0:
+        raise ZeroDivisionError("division by zero")
+
+    for lists in matrix:
+        if len(lists) != len(matrix[0]):
+            raise TypeError(mes1)
+        inner_list = []
+        for items in lists:
+            if not isinstance(items, (int, float)):
+                raise TypeError(mes0)
+            else:
+                inner_list.append(round(items / div, 2))
+        res_matrix.append(inner_list)
+
+    return res_matrix
