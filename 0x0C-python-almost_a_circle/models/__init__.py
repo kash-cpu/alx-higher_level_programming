@@ -69,16 +69,16 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-2d0725ffe778.js"></script>
   
 
-  <title>holbertonschool-higher_level_programming/__init__.py at 8cd280536a565b00f587c021c9cf37982feb5858 · Gzoref/holbertonschool-higher_level_programming · GitHub</title>
+  <title>holbertonschool-higher_level_programming/__init__.py at 6fd50008b46cd952431975f953c25554b0d15b64 · luismch158158/holbertonschool-higher_level_programming · GitHub</title>
 
 
 
     
 
-  <meta name="request-id" content="868C:1A9E:D17871:139708F:63CB1B7E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="9fee4d79c194fc072f4d3ceca4b0184f3d926596ab8d7ca211a4a9ac518f5ed7" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4NjhDOjFBOUU6RDE3ODcxOjEzOTcwOEY6NjNDQjFCN0UiLCJ2aXNpdG9yX2lkIjoiMjkyOTExNjI3MzkwMjgyMDIyMiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="22c04b4551a19b12a6c869bee1a0ffd890522dffe20b3bf40bf7f5c49333da0b" data-pjax-transient="true"/>
+  <meta name="request-id" content="D538:732B:2D3A581:3EFEA40:63CB275A" data-pjax-transient="true"/><meta name="html-safe-nonce" content="c251f61553de8255807880c5dff30afe12531c0ccd38bb0c7325e7617c37f4da" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJENTM4OjczMkI6MkQzQTU4MTozRUZFQTQwOjYzQ0IyNzVBIiwidmlzaXRvcl9pZCI6IjIzMTcwMDk3NDk3NjM4OTMwODIiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="6c48f90c7da4735719567dc251e881b34c997cc40d891f3fe8a0cafaac6d469f" data-pjax-transient="true"/>
 
 
-    <meta name="hovercard-subject-tag" content="repository:226892040" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:485474789" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -109,13 +109,13 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="High level programming projects. Contribute to Gzoref/holbertonschool-higher_level_programming development by creating an account on GitHub.">
+      <meta name="description" content="This repository is about my learning Python at Holberton School - holbertonschool-higher_level_programming/__init__.py at 6fd50008b46cd952431975f953c25554b0d15b64 · luismch158158/holbertonschool-higher_level_programming">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/9e9cc2769098d8bf67080e673812d271f1a5b85f684d5e75f4f925c3818b3274/Gzoref/holbertonschool-higher_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="holbertonschool-higher_level_programming/__init__.py at 8cd280536a565b00f587c021c9cf37982feb5858 · Gzoref/holbertonschool-higher_level_programming" /><meta name="twitter:description" content="High level programming projects. Contribute to Gzoref/holbertonschool-higher_level_programming development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/9e9cc2769098d8bf67080e673812d271f1a5b85f684d5e75f4f925c3818b3274/Gzoref/holbertonschool-higher_level_programming" /><meta property="og:image:alt" content="High level programming projects. Contribute to Gzoref/holbertonschool-higher_level_programming development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="holbertonschool-higher_level_programming/__init__.py at 8cd280536a565b00f587c021c9cf37982feb5858 · Gzoref/holbertonschool-higher_level_programming" /><meta property="og:url" content="https://github.com/Gzoref/holbertonschool-higher_level_programming" /><meta property="og:description" content="High level programming projects. Contribute to Gzoref/holbertonschool-higher_level_programming development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/97aad8ab242257631ab61117b2d7b2b8827aa1fc853c0010218a38f2fb8dfa21/luismch158158/holbertonschool-higher_level_programming" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="holbertonschool-higher_level_programming/__init__.py at 6fd50008b46cd952431975f953c25554b0d15b64 · luismch158158/holbertonschool-higher_level_programming" /><meta name="twitter:description" content="This repository is about my learning Python at Holberton School - holbertonschool-higher_level_programming/__init__.py at 6fd50008b46cd952431975f953c25554b0d15b64 · luismch158158/holbertonschool-hi..." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/97aad8ab242257631ab61117b2d7b2b8827aa1fc853c0010218a38f2fb8dfa21/luismch158158/holbertonschool-higher_level_programming" /><meta property="og:image:alt" content="This repository is about my learning Python at Holberton School - holbertonschool-higher_level_programming/__init__.py at 6fd50008b46cd952431975f953c25554b0d15b64 · luismch158158/holbertonschool-hi..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="holbertonschool-higher_level_programming/__init__.py at 6fd50008b46cd952431975f953c25554b0d15b64 · luismch158158/holbertonschool-higher_level_programming" /><meta property="og:url" content="https://github.com/luismch158158/holbertonschool-higher_level_programming" /><meta property="og:description" content="This repository is about my learning Python at Holberton School - holbertonschool-higher_level_programming/__init__.py at 6fd50008b46cd952431975f953c25554b0d15b64 · luismch158158/holbertonschool-hi..." />
       
     <link rel="assets" href="https://github.githubassets.com/">
 
@@ -138,13 +138,13 @@
 
         <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/Gzoref/holbertonschool-higher_level_programming git https://github.com/Gzoref/holbertonschool-higher_level_programming.git">
+  <meta name="go-import" content="github.com/luismch158158/holbertonschool-higher_level_programming git https://github.com/luismch158158/holbertonschool-higher_level_programming.git">
 
-  <meta name="octolytics-dimension-user_id" content="9394859" /><meta name="octolytics-dimension-user_login" content="Gzoref" /><meta name="octolytics-dimension-repository_id" content="226892040" /><meta name="octolytics-dimension-repository_nwo" content="Gzoref/holbertonschool-higher_level_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="226892040" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Gzoref/holbertonschool-higher_level_programming" />
+  <meta name="octolytics-dimension-user_id" content="86433738" /><meta name="octolytics-dimension-user_login" content="luismch158158" /><meta name="octolytics-dimension-repository_id" content="485474789" /><meta name="octolytics-dimension-repository_nwo" content="luismch158158/holbertonschool-higher_level_programming" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="485474789" /><meta name="octolytics-dimension-repository_network_root_nwo" content="luismch158158/holbertonschool-higher_level_programming" />
 
 
 
-    <link rel="canonical" href="https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-out env-production page-responsive page-blob">
 
 
@@ -198,7 +198,7 @@
         <div class="flex-1">
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
             class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ac1dbaa8370539119451287db1cce2552fdd4e36b61e93bd632bb4fc243887d5"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d503ec9f8f4e704d3292ff277f86601f9eebd5273348a0029f5675b0a520cee3"
           >
             Sign&nbsp;up
           </a>
@@ -230,7 +230,7 @@
         <ul class="list-style-none f5 px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Actions;&quot;}" href="/features/actions">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Actions;&quot;}" href="/features/actions">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-workflow color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M1 3a2 2 0 012-2h6.5a2 2 0 012 2v6.5a2 2 0 01-2 2H7v4.063C7 16.355 7.644 17 8.438 17H12.5v-2.5a2 2 0 012-2H21a2 2 0 012 2V21a2 2 0 01-2 2h-6.5a2 2 0 01-2-2v-2.5H8.437A2.938 2.938 0 015.5 15.562V11.5H3a2 2 0 01-2-2V3zm2-.5a.5.5 0 00-.5.5v6.5a.5.5 0 00.5.5h6.5a.5.5 0 00.5-.5V3a.5.5 0 00-.5-.5H3zM14.5 14a.5.5 0 00-.5.5V21a.5.5 0 00.5.5H21a.5.5 0 00.5-.5v-6.5a.5.5 0 00-.5-.5h-6.5z"></path>
 </svg>
@@ -243,7 +243,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Packages;&quot;}" href="/features/packages">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Packages;&quot;}" href="/features/packages">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-package color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M12.876.64a1.75 1.75 0 00-1.75 0l-8.25 4.762a1.75 1.75 0 00-.875 1.515v9.525c0 .625.334 1.203.875 1.515l8.25 4.763a1.75 1.75 0 001.75 0l8.25-4.762a1.75 1.75 0 00.875-1.516V6.917a1.75 1.75 0 00-.875-1.515L12.876.639zm-1 1.298a.25.25 0 01.25 0l7.625 4.402-7.75 4.474-7.75-4.474 7.625-4.402zM3.501 7.64v8.803c0 .09.048.172.125.216l7.625 4.402v-8.947L3.501 7.64zm9.25 13.421l7.625-4.402a.25.25 0 00.125-.216V7.639l-7.75 4.474v8.947z"></path>
 </svg>
@@ -256,7 +256,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Security;&quot;}" href="/features/security">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Security;&quot;}" href="/features/security">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
     <path d="M16.53 9.78a.75.75 0 00-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 00-1.06 1.06l2.5 2.5a.75.75 0 001.06 0l5-5z"></path><path fill-rule="evenodd" d="M12.54.637a1.75 1.75 0 00-1.08 0L3.21 3.312A1.75 1.75 0 002 4.976V10c0 6.19 3.77 10.705 9.401 12.83.386.145.812.145 1.198 0C18.229 20.704 22 16.19 22 10V4.976c0-.759-.49-1.43-1.21-1.664L12.54.637zm-.617 1.426a.25.25 0 01.154 0l8.25 2.676a.25.25 0 01.173.237V10c0 5.461-3.28 9.483-8.43 11.426a.2.2 0 01-.14 0C6.78 19.483 3.5 15.46 3.5 10V4.976c0-.108.069-.203.173-.237l8.25-2.676z"></path>
 </svg>
@@ -269,7 +269,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-codespaces color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M3.5 3.75C3.5 2.784 4.284 2 5.25 2h13.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0118.75 13H5.25a1.75 1.75 0 01-1.75-1.75v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h13.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H5.25zM1.5 15.75c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v4a1.75 1.75 0 01-1.75 1.75H3.25a1.75 1.75 0 01-1.75-1.75v-4zm1.75-.25a.25.25 0 00-.25.25v4c0 .138.112.25.25.25h17.5a.25.25 0 00.25-.25v-4a.25.25 0 00-.25-.25H3.25z"></path><path fill-rule="evenodd" d="M10 17.75a.75.75 0 01.75-.75h6.5a.75.75 0 010 1.5h-6.5a.75.75 0 01-.75-.75zm-4 0a.75.75 0 01.75-.75h.5a.75.75 0 010 1.5h-.5a.75.75 0 01-.75-.75z"></path>
 </svg>
@@ -282,7 +282,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Copilot;&quot;}" href="/features/copilot">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Copilot;&quot;}" href="/features/copilot">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
     <path d="M9.75 14a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0v-2.5a.75.75 0 01.75-.75zm4.5 0a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0v-2.5a.75.75 0 01.75-.75z"></path><path fill-rule="evenodd" d="M12 2c-2.214 0-4.248.657-5.747 1.756a7.43 7.43 0 00-.397.312c-.584.235-1.077.546-1.474.952-.85.87-1.132 2.037-1.132 3.368 0 .368.014.733.052 1.086l-.633 1.478-.043.022A4.75 4.75 0 000 15.222v1.028c0 .529.31.987.564 1.293.28.336.637.653.967.918a13.262 13.262 0 001.299.911l.024.015.006.004.04.025.144.087c.124.073.304.177.535.3.46.245 1.122.57 1.942.894C7.155 21.344 9.439 22 12 22s4.845-.656 6.48-1.303c.819-.324 1.481-.65 1.941-.895a13.797 13.797 0 00.68-.386l.039-.025.006-.004.024-.015a8.829 8.829 0 00.387-.248c.245-.164.577-.396.912-.663.33-.265.686-.582.966-.918.256-.306.565-.764.565-1.293v-1.028a4.75 4.75 0 00-2.626-4.248l-.043-.022-.633-1.478c.038-.353.052-.718.052-1.086 0-1.331-.282-2.499-1.132-3.368-.397-.406-.89-.717-1.474-.952a7.386 7.386 0 00-.397-.312C16.248 2.657 14.214 2 12 2zm-8 9.654l.038-.09c.046.06.094.12.145.177.793.9 2.057 1.259 3.782 1.259 1.59 0 2.739-.544 3.508-1.492.131-.161.249-.331.355-.508a32.948 32.948 0 00.344 0c.106.177.224.347.355.508.77.948 1.918 1.492 3.508 1.492 1.725 0 2.989-.359 3.782-1.259.05-.057.099-.116.145-.177l.038.09v6.669a17.618 17.618 0 01-2.073.98C16.405 19.906 14.314 20.5 12 20.5c-2.314 0-4.405-.594-5.927-1.197A17.62 17.62 0 014 18.323v-6.67zm6.309-1.092a2.35 2.35 0 01-.38.374c-.437.341-1.054.564-1.964.564-1.573 0-2.292-.337-2.657-.75-.192-.218-.331-.506-.423-.89-.091-.385-.135-.867-.135-1.472 0-1.14.243-1.847.705-2.32.477-.487 1.319-.861 2.824-1.024 1.487-.16 2.192.138 2.533.529l.008.01c.264.308.429.806.43 1.568v.031a7.203 7.203 0 01-.09 1.079c-.143.967-.406 1.754-.851 2.301zm2.504-2.497a7.174 7.174 0 01-.063-.894v-.02c.001-.77.17-1.27.438-1.578.341-.39 1.046-.69 2.533-.529 1.506.163 2.347.537 2.824 1.025.462.472.705 1.179.705 2.319 0 1.21-.174 1.926-.558 2.361-.365.414-1.084.751-2.657.751-1.21 0-1.902-.393-2.344-.938-.475-.584-.742-1.44-.878-2.497z"></path>
 </svg>
@@ -295,7 +295,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Code review;&quot;}" href="/features/code-review">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Code review;&quot;}" href="/features/code-review">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-code-review color-fg-subtle mr-3">
     <path d="M10.3 6.74a.75.75 0 01-.04 1.06l-2.908 2.7 2.908 2.7a.75.75 0 11-1.02 1.1l-3.5-3.25a.75.75 0 010-1.1l3.5-3.25a.75.75 0 011.06.04zm3.44 1.06a.75.75 0 111.02-1.1l3.5 3.25a.75.75 0 010 1.1l-3.5 3.25a.75.75 0 11-1.02-1.1l2.908-2.7-2.908-2.7z"></path><path fill-rule="evenodd" d="M1.5 4.25c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v12.5a1.75 1.75 0 01-1.75 1.75h-9.69l-3.573 3.573A1.457 1.457 0 015 21.043V18.5H3.25a1.75 1.75 0 01-1.75-1.75V4.25zM3.25 4a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h2.5a.75.75 0 01.75.75v3.19l3.72-3.72a.75.75 0 01.53-.22h10a.25.25 0 00.25-.25V4.25a.25.25 0 00-.25-.25H3.25z"></path>
 </svg>
@@ -308,7 +308,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Issues;&quot;}" href="/features/issues">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Issues;&quot;}" href="/features/issues">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-issue-opened color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0zM12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zm0 13a2 2 0 100-4 2 2 0 000 4z"></path>
 </svg>
@@ -321,7 +321,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Discussions;&quot;}" href="/features/discussions">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Discussions;&quot;}" href="/features/discussions">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M1.75 1A1.75 1.75 0 000 2.75v9.5C0 13.216.784 14 1.75 14H3v1.543a1.457 1.457 0 002.487 1.03L8.061 14h6.189A1.75 1.75 0 0016 12.25v-9.5A1.75 1.75 0 0014.25 1H1.75zM1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v9.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 15.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-9.5z"></path><path d="M22.5 8.75a.25.25 0 00-.25-.25h-3.5a.75.75 0 010-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0122.25 20H21v1.543a1.457 1.457 0 01-2.487 1.03L15.939 20H10.75A1.75 1.75 0 019 18.25v-1.465a.75.75 0 011.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 01.53.22l2.72 2.72v-2.19a.75.75 0 01.75-.75h2a.25.25 0 00.25-.25v-9.5z"></path>
 </svg>
@@ -338,14 +338,14 @@
             <li class="h4 color-fg-default my-1">Explore</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to All features&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:All features;&quot;}" href="/features">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to All features&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:All features;&quot;}" href="/features">
       All features
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Documentation&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Documentation;&quot;}" href="https://docs.github.com">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Documentation&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Documentation;&quot;}" href="https://docs.github.com">
       Documentation
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -354,7 +354,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Skills&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:GitHub Skills;&quot;}" href="https://skills.github.com/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Skills&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:GitHub Skills;&quot;}" href="https://skills.github.com/">
       GitHub Skills
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -363,7 +363,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Blog&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Blog;&quot;}" href="https://github.blog">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Blog&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Blog;&quot;}" href="https://github.blog">
       Blog
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -388,28 +388,28 @@
             <li class="h4 color-fg-default my-1">For</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Enterprise;&quot;}" href="/enterprise">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Enterprise;&quot;}" href="/enterprise">
       Enterprise
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Teams&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Teams;&quot;}" href="/team">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Teams&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Teams;&quot;}" href="/team">
       Teams
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Startups&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Startups;&quot;}" href="/enterprise/startups">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Startups&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Startups;&quot;}" href="/enterprise/startups">
       Startups
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Education;&quot;}" href="https://education.github.com">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Education&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Education;&quot;}" href="https://education.github.com">
       Education
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -422,14 +422,14 @@
             <li class="h4 color-fg-default my-1">By Solution</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to CI/CD &amp;amp; Automation&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:CI/CD &amp;amp; Automation;&quot;}" href="/solutions/ci-cd/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to CI/CD &amp;amp; Automation&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:CI/CD &amp;amp; Automation;&quot;}" href="/solutions/ci-cd/">
       CI/CD &amp; Automation
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevOps&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:DevOps;&quot;}" href="https://resources.github.com/devops/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevOps&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:DevOps;&quot;}" href="https://resources.github.com/devops/">
       DevOps
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -438,7 +438,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevSecOps&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:DevSecOps;&quot;}" href="https://resources.github.com/devops/fundamentals/devsecops/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevSecOps&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:DevSecOps;&quot;}" href="https://resources.github.com/devops/fundamentals/devsecops/">
       DevSecOps
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -451,14 +451,14 @@
             <li class="h4 color-fg-default my-1">Case Studies</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Customer Stories&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Customer Stories;&quot;}" href="/customer-stories">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Customer Stories&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Customer Stories;&quot;}" href="/customer-stories">
       Customer Stories
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Resources&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Resources;&quot;}" href="https://resources.github.com/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Resources&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Resources;&quot;}" href="https://resources.github.com/">
       Resources
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -482,7 +482,7 @@
         <ul class="list-style-none f5 border-bottom pb-3 mb-3">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
       
       <div>
         <div class="color-fg-default h4">GitHub Sponsors</div>
@@ -496,7 +496,7 @@
         <ul class="list-style-none f5 border-bottom pb-3 mb-3">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:The ReadME Project;&quot;}" href="/readme">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:The ReadME Project;&quot;}" href="/readme">
       
       <div>
         <div class="color-fg-default h4">The ReadME Project</div>
@@ -511,21 +511,21 @@
             <li class="h4 color-fg-default my-1">Repositories</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Topics;&quot;}" href="/topics">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Topics;&quot;}" href="/topics">
       Topics
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Trending;&quot;}" href="/trending">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Trending;&quot;}" href="/trending">
       Trending
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Collections;&quot;}" href="/collections">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Collections;&quot;}" href="/collections">
       Collections
 
     
@@ -537,7 +537,7 @@
 
 
                 <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Pricing&quot;,&quot;label&quot;:&quot;ref_page:/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Pricing;&quot;}" href="/pricing">Pricing</a>
+    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Pricing&quot;,&quot;label&quot;:&quot;ref_page:/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py;ref_cta:Pricing;&quot;}" href="/pricing">Pricing</a>
 </li>
 
             </ul>
@@ -552,7 +552,7 @@
 <div class="header-search flex-auto position-relative js-site-search flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="226892040" data-scoped-search-url="/Gzoref/holbertonschool-higher_level_programming/search" data-owner-scoped-search-url="/users/Gzoref/search" data-unscoped-search-url="/search" data-turbo="false" action="/Gzoref/holbertonschool-higher_level_programming/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="485474789" data-scoped-search-url="/luismch158158/holbertonschool-higher_level_programming/search" data-owner-scoped-search-url="/users/luismch158158/search" data-unscoped-search-url="/search" data-turbo="false" action="/luismch158158/holbertonschool-higher_level_programming/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable"
@@ -573,7 +573,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="4g1ZW+Q2TAGCJxMgllhdHIQzF3Mq7Cpo9xoHPLpaziQOn//4G6t14q9Py3fQA3abRthoUNJZmt3pXcSFYCLXow==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="M8BVREogD0G5I8Xc6Hw/ICE+8aEd3GmZLTCBC0GKxV7U0uOEm8Q/IibQzvm8+oNbdxCZAtC0TiisqY7vd7uyeA==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -753,17 +753,17 @@
             </div>
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FGzoref%2Fholbertonschool-higher_level_programming%2Fblob%2F8cd280536a565b00f587c021c9cf37982feb5858%2F0x0C-python-almost_a_circle%2Fmodels%2F__init__.py"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fluismch158158%2Fholbertonschool-higher_level_programming%2Fblob%2F6fd50008b46cd952431975f953c25554b0d15b64%2F0x0C-python-almost_a_circle%2Fmodels%2F__init__.py"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="47457e5817754c813948d782900b2ad9eb52385ac4778af263f46542cd29efee"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="efd5027df9cdb8d12d712c75eba5b9d37dbdbbc568087f9aa3f9db32e7c56818"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
           </div>
 
-            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=Gzoref%2Fholbertonschool-higher_level_programming"
+            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=luismch158158%2Fholbertonschool-higher_level_programming"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="47457e5817754c813948d782900b2ad9eb52385ac4778af263f46542cd29efee"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="efd5027df9cdb8d12d712c75eba5b9d37dbdbbc568087f9aa3f9db32e7c56818"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -849,11 +849,11 @@
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Gzoref/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Gzoref">Gzoref</a>
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/luismch158158/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/luismch158158">luismch158158</a>
     </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Gzoref/holbertonschool-higher_level_programming">holbertonschool-higher_level_programming</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/luismch158158/holbertonschool-higher_level_programming">holbertonschool-higher_level_programming</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -867,23 +867,23 @@
       
 
   <li>
-          <a href="/login?return_to=%2FGzoref%2Fholbertonschool-higher_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ec538e7a543ce9e3b663b13f99a7ad53d8755d7e5cec0fa85c2f6916d07253b3" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+          <a href="/login?return_to=%2Fluismch158158%2Fholbertonschool-higher_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c403d525051b9b798fd410145053a1daec7fb52eb26c52abf3adabaa09738017" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>Notifications
 </a>
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2FGzoref%2Fholbertonschool-higher_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:226892040,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="27f8a6d5c88e86eb161b9a34dda94a01d1f767c9fa2287a10d1ddad5b2fb94ba" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fluismch158158%2Fholbertonschool-higher_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:485474789,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7340f010f06a97da1bde75985f91372b393169f7caf79c042258d4cb4c466df1" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
-    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="4" data-view-component="true" class="Counter">4</span>
+    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
 </a>
   </li>
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2FGzoref%2Fholbertonschool-higher_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:226892040,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c6584deec37be7efb04d595ba372d03cc533e3022571513079091cd51f29061a" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2Fluismch158158%2Fholbertonschool-higher_level_programming" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:485474789,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="81ae9437cd219b7f17489942cea3916e8f80c5ab9b091db4fd2417f5101d6447" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -908,7 +908,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/Gzoref/holbertonschool-higher_level_programming" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Gzoref/holbertonschool-higher_level_programming" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/luismch158158/holbertonschool-higher_level_programming" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /luismch158158/holbertonschool-higher_level_programming" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -920,7 +920,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/Gzoref/holbertonschool-higher_level_programming/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Gzoref/holbertonschool-higher_level_programming/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/luismch158158/holbertonschool-higher_level_programming/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /luismch158158/holbertonschool-higher_level_programming/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -932,19 +932,19 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/Gzoref/holbertonschool-higher_level_programming/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Gzoref/holbertonschool-higher_level_programming/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/luismch158158/holbertonschool-higher_level_programming/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /luismch158158/holbertonschool-higher_level_programming/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
 </svg>
         <span data-content="Pull requests">Pull requests</span>
-          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="1" data-view-component="true" class="Counter">1</span>
+          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/Gzoref/holbertonschool-higher_level_programming/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Gzoref/holbertonschool-higher_level_programming/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/luismch158158/holbertonschool-higher_level_programming/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /luismch158158/holbertonschool-higher_level_programming/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -956,7 +956,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/Gzoref/holbertonschool-higher_level_programming/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Gzoref/holbertonschool-higher_level_programming/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/luismch158158/holbertonschool-higher_level_programming/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /luismch158158/holbertonschool-higher_level_programming/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
@@ -968,18 +968,18 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/Gzoref/holbertonschool-higher_level_programming/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Gzoref/holbertonschool-higher_level_programming/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-tab" href="/luismch158158/holbertonschool-higher_level_programming/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /luismch158158/holbertonschool-higher_level_programming/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/Gzoref/holbertonschool-higher_level_programming/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/luismch158158/holbertonschool-higher_level_programming/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/Gzoref/holbertonschool-higher_level_programming/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Gzoref/holbertonschool-higher_level_programming/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/luismch158158/holbertonschool-higher_level_programming/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /luismch158158/holbertonschool-higher_level_programming/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
@@ -1001,31 +1001,31 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Gzoref/holbertonschool-higher_level_programming" href="/Gzoref/holbertonschool-higher_level_programming">
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /luismch158158/holbertonschool-higher_level_programming" href="/luismch158158/holbertonschool-higher_level_programming">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /Gzoref/holbertonschool-higher_level_programming/issues" href="/Gzoref/holbertonschool-higher_level_programming/issues">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /luismch158158/holbertonschool-higher_level_programming/issues" href="/luismch158158/holbertonschool-higher_level_programming/issues">
                   Issues
 </a>              </li>
               <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /Gzoref/holbertonschool-higher_level_programming/pulls" href="/Gzoref/holbertonschool-higher_level_programming/pulls">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /luismch158158/holbertonschool-higher_level_programming/pulls" href="/luismch158158/holbertonschool-higher_level_programming/pulls">
                   Pull requests
 </a>              </li>
               <li data-menu-item="i3actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /Gzoref/holbertonschool-higher_level_programming/actions" href="/Gzoref/holbertonschool-higher_level_programming/actions">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /luismch158158/holbertonschool-higher_level_programming/actions" href="/luismch158158/holbertonschool-higher_level_programming/actions">
                   Actions
 </a>              </li>
               <li data-menu-item="i4projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /Gzoref/holbertonschool-higher_level_programming/projects" href="/Gzoref/holbertonschool-higher_level_programming/projects">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /luismch158158/holbertonschool-higher_level_programming/projects" href="/luismch158158/holbertonschool-higher_level_programming/projects">
                   Projects
 </a>              </li>
               <li data-menu-item="i5security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /Gzoref/holbertonschool-higher_level_programming/security" href="/Gzoref/holbertonschool-higher_level_programming/security">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /luismch158158/holbertonschool-higher_level_programming/security" href="/luismch158158/holbertonschool-higher_level_programming/security">
                   Security
 </a>              </li>
               <li data-menu-item="i6insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Gzoref/holbertonschool-higher_level_programming/pulse" href="/Gzoref/holbertonschool-higher_level_programming/pulse">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /luismch158158/holbertonschool-higher_level_programming/pulse" href="/luismch158158/holbertonschool-higher_level_programming/pulse">
                   Insights
 </a>              </li>
           </ul>
@@ -1057,7 +1057,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1065,14 +1065,14 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:226892040,&quot;originating_url&quot;:&quot;https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f370d211837f8789469620b7f6912ebaf79445d838a97008ea052748c8b60162">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:485474789,&quot;originating_url&quot;:&quot;https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8c9bf186b60848dc7c1edd74496c890134d331ec3b18a109d90891f56675743a">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>8cd280536a</span>
+      <span class="css-truncate-target" data-menu-button>6fd50008b4</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -1116,12 +1116,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/Gzoref/holbertonschool-higher_level_programming/refs"
+            query-endpoint="/luismch158158/holbertonschool-higher_level_programming/refs"
             
-            cache-key="v0:1579814139.0"
-            current-committish="OGNkMjgwNTM2YTU2NWIwMGY1ODdjMDIxYzljZjM3OTgyZmViNTg1OA=="
+            cache-key="v0:1650908779.707828"
+            current-committish="NmZkNTAwMDhiNDZjZDk1MjQzMTk3NWY5NTNjMjU1NTRiMGQxNWI2NA=="
             default-branch="bWFzdGVy"
-            name-with-owner="R3pvcmVmL2hvbGJlcnRvbnNjaG9vbC1oaWdoZXJfbGV2ZWxfcHJvZ3JhbW1pbmc="
+            name-with-owner="bHVpc21jaDE1ODE1OC9ob2xiZXJ0b25zY2hvb2wtaGlnaGVyX2xldmVsX3Byb2dyYW1taW5n"
             prefetch-on-mouseover
           >
 
@@ -1146,7 +1146,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/{{ urlEncodedRefName }}/0x0C-python-almost_a_circle/models/__init__.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/{{ urlEncodedRefName }}/0x0C-python-almost_a_circle/models/__init__.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1156,7 +1156,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/Gzoref/holbertonschool-higher_level_programming/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/luismch158158/holbertonschool-higher_level_programming/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -1170,11 +1170,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/Gzoref/holbertonschool-higher_level_programming/refs"
-            cache-key="v0:1579814139.0"
-            current-committish="OGNkMjgwNTM2YTU2NWIwMGY1ODdjMDIxYzljZjM3OTgyZmViNTg1OA=="
+            query-endpoint="/luismch158158/holbertonschool-higher_level_programming/refs"
+            cache-key="v0:1650908779.707828"
+            current-committish="NmZkNTAwMDhiNDZjZDk1MjQzMTk3NWY5NTNjMjU1NTRiMGQxNWI2NA=="
             default-branch="bWFzdGVy"
-            name-with-owner="R3pvcmVmL2hvbGJlcnRvbnNjaG9vbC1oaWdoZXJfbGV2ZWxfcHJvZ3JhbW1pbmc="
+            name-with-owner="bHVpc21jaDE1ODE1OC9ob2xiZXJ0b25zY2hvb2wtaGlnaGVyX2xldmVsX3Byb2dyYW1taW5n"
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -1188,7 +1188,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/{{ urlEncodedRefName }}/0x0C-python-almost_a_circle/models/__init__.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/{{ urlEncodedRefName }}/0x0C-python-almost_a_circle/models/__init__.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1206,7 +1206,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/Gzoref/holbertonschool-higher_level_programming/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/luismch158158/holbertonschool-higher_level_programming/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -1249,9 +1249,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/Gzoref/holbertonschool-higher_level_programming/tree/8cd280536a565b00f587c021c9cf37982feb5858"><span>holbertonschool-higher_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/Gzoref/holbertonschool-higher_level_programming/tree/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle"><span>0x0C-python-almost_a_circle</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/Gzoref/holbertonschool-higher_level_programming/tree/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models"><span>models</span></a></span><span class="separator">/</span><strong class="final-path">__init__.py</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/luismch158158/holbertonschool-higher_level_programming/tree/6fd50008b46cd952431975f953c25554b0d15b64"><span>holbertonschool-higher_level_programming</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/luismch158158/holbertonschool-higher_level_programming/tree/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle"><span>0x0C-python-almost_a_circle</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" rel="nofollow" href="/luismch158158/holbertonschool-higher_level_programming/tree/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models"><span>models</span></a></span><span class="separator">/</span><strong class="final-path">__init__.py</strong>
   </h2>
-    <a href="/Gzoref/holbertonschool-higher_level_programming/find/8cd280536a565b00f587c021c9cf37982feb5858" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/luismch158158/holbertonschool-higher_level_programming/find/6fd50008b46cd952431975f953c25554b0d15b64" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -1260,7 +1260,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:226892040,&quot;originating_url&quot;:&quot;https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="31ca79f508351700abc302d5572127a45637d080668e38f452eef9efd4523e18" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/Gzoref/holbertonschool-higher_level_programming/find/8cd280536a565b00f587c021c9cf37982feb5858">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:485474789,&quot;originating_url&quot;:&quot;https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9004bcb49367774f6e3681c740e81ecb177769b278b06b04c226937541604a6a" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/luismch158158/holbertonschool-higher_level_programming/find/6fd50008b46cd952431975f953c25554b0d15b64">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1278,7 +1278,7 @@
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Gzoref/holbertonschool-higher_level_programming/blob/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/luismch158158/holbertonschool-higher_level_programming/blob/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1307,37 +1307,37 @@
   
 </div></div>
 
-    <include-fragment src="/Gzoref/holbertonschool-higher_level_programming/spoofed_commit_check/8cd280536a565b00f587c021c9cf37982feb5858" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/luismch158158/holbertonschool-higher_level_programming/spoofed_commit_check/6fd50008b46cd952431975f953c25554b0d15b64" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
   
   <div class="Box-header Details js-details-container">
       <div class="d-flex flex-items-center">
         <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/Gzoref/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Gzoref"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/9394859?s=48&amp;v=4" width="24" height="24" alt="@Gzoref" /></a>
+          <a rel="author" data-hovercard-type="user" data-hovercard-url="/users/luismch158158/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/luismch158158"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/86433738?s=48&amp;v=4" width="24" height="24" alt="@luismch158158" /></a>
         </span>
         <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
           <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Gzoref/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Gzoref">Gzoref</a>
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/luismch158158/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/luismch158158">luismch158158</a>
 
               <span class="markdown-title">
-                <a data-pjax="true" title="Add Models/rectangle" class="Link--secondary" href="/Gzoref/holbertonschool-higher_level_programming/commit/c8184a760729f1c0b08f39acad3834c5bf8eb4df">Add Models/rectangle</a>
+                <a data-pjax="true" title="Initializing files" class="Link--secondary" href="/luismch158158/holbertonschool-higher_level_programming/commit/75d62fcc0c70cc63f9e97ec1e381d237623fb8a1">Initializing files</a>
               </span>
           </div>
 
 
           <span class="ml-2">
-            <include-fragment accept="text/fragment+html" src="/Gzoref/holbertonschool-higher_level_programming/commit/c8184a760729f1c0b08f39acad3834c5bf8eb4df/rollup?direction=e" class="d-inline"></include-fragment>
+            <include-fragment accept="text/fragment+html" src="/luismch158158/holbertonschool-higher_level_programming/commit/75d62fcc0c70cc63f9e97ec1e381d237623fb8a1/rollup?direction=e" class="d-inline"></include-fragment>
           </span>
         </div>
         <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
           <span class="d-none d-md-inline">
             <span>Latest commit</span>
-            <a class="text-small text-mono Link--secondary" href="/Gzoref/holbertonschool-higher_level_programming/commit/c8184a760729f1c0b08f39acad3834c5bf8eb4df" data-pjax>c8184a7</a>
-            <span itemprop="dateModified"><relative-time datetime="2020-01-23T21:51:41Z" class="no-wrap">Jan 23, 2020</relative-time></span>
+            <a class="text-small text-mono Link--secondary" href="/luismch158158/holbertonschool-higher_level_programming/commit/75d62fcc0c70cc63f9e97ec1e381d237623fb8a1" data-pjax>75d62fc</a>
+            <span itemprop="dateModified"><relative-time datetime="2022-06-02T15:21:14Z" class="no-wrap">Jun 2, 2022</relative-time></span>
           </span>
 
-          <a data-pjax href="/Gzoref/holbertonschool-higher_level_programming/commits/master/0x0C-python-almost_a_circle/models/__init__.py" class="ml-3 no-wrap Link--primary no-underline">
+          <a data-pjax href="/luismch158158/holbertonschool-higher_level_programming/commits/master/0x0C-python-almost_a_circle/models/__init__.py" class="ml-3 no-wrap Link--primary no-underline">
             <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
     <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
 </svg>
@@ -1363,7 +1363,7 @@
       <details-dialog
         class="Box Box--overlay d-flex flex-column anim-fade-in fast"
         aria-label="Users who have contributed to this file"
-        src="/Gzoref/holbertonschool-higher_level_programming/contributors-list/master/0x0C-python-almost_a_circle/models/__init__.py" preload>
+        src="/luismch158158/holbertonschool-higher_level_programming/contributors-list/master/0x0C-python-almost_a_circle/models/__init__.py" preload>
         <div class="Box-header">
           <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
             <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
@@ -1403,8 +1403,6 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      <span class="file-mode" title="File mode">executable file</span>
-      <span class="file-info-divider"></span>
       0 lines (0 sloc)
       <span class="file-info-divider"></span>
     0 Bytes
@@ -1414,24 +1412,24 @@
       
 
     <div class="BtnGroup">
-        <a href="/Gzoref/holbertonschool-higher_level_programming/raw/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Raw
-</a>          <a href="/Gzoref/holbertonschool-higher_level_programming/blame/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">    Blame
+        <a href="/luismch158158/holbertonschool-higher_level_programming/raw/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">    Raw
+</a>          <a href="/luismch158158/holbertonschool-higher_level_programming/blame/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Gzoref/holbertonschool-higher_level_programming/edit/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MAblFxo-Ph6fJ_iItdRg7ztbv7Bk-A3-AcYuw002y9UYacnBYNlmJ6vXYS8a6MAhvrYJgNl0QEVvDmQmtqBRQg" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/luismch158158/holbertonschool-higher_level_programming/edit/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hEBe5dx3tb0GFSkSyc4i53BFPIO2nA1fPy_jvCTUBQ7Tr85_rLbdyyOzJno_HR7GDePn39Ql4i9frvxxZ4RO2A" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:226892040,&quot;actor_id&quot;:null,&quot;github_dev_enabled&quot;:false,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:485474789,&quot;actor_id&quot;:null,&quot;github_dev_enabled&quot;:false,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Gzoref/holbertonschool-higher_level_programming/edit/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uX94Yz-WO77Ll6RXXyZcm1LSk_F1xs6UKPcKDbrVs7eREFS1RXFjh_9nPfDwGvxV1z8lwchKgy9GP0DoQUMpIA" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/luismch158158/holbertonschool-higher_level_programming/edit/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="luahX5itEFZeH3NkP6cVlfohskCbFbyR6tCXMxOLODrBCTHF6Gx4IHu5fAzJdCm0h4dpHPmsU-GKUYj-UNtz7A" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1465,7 +1463,7 @@
           aria-haspopup="true"
           aria-label="possible actions"
           
-          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:226892040,&quot;actor_id&quot;:null,&quot;github_dev_enabled&quot;:false,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:true}}"
+          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:485474789,&quot;actor_id&quot;:null,&quot;github_dev_enabled&quot;:false,&quot;edit_enabled&quot;:false,&quot;small_screen&quot;:true}}"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
@@ -1476,14 +1474,14 @@
             <li>
             </li>
           <li>
-            <a class="dropdown-item" href="/Gzoref/holbertonschool-higher_level_programming/raw/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py">
+            <a class="dropdown-item" href="/luismch158158/holbertonschool-higher_level_programming/raw/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py">
               View raw
             </a>
           </li>
             <li>
                           </li>
             <li>
-              <a class="dropdown-item" href="/Gzoref/holbertonschool-higher_level_programming/blame/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py">
+              <a class="dropdown-item" href="/luismch158158/holbertonschool-higher_level_programming/blame/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py">
                 View blame
               </a>
             </li>
@@ -1548,8 +1546,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Gzoref/holbertonschool-higher_level_programming/blame/8cd280536a565b00f587c021c9cf37982feb5858/0x0C-python-almost_a_circle/models/__init__.py">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Gzoref/holbertonschool-higher_level_programming/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/luismch158158/holbertonschool-higher_level_programming/blame/6fd50008b46cd952431975f953c25554b0d15b64/0x0C-python-almost_a_circle/models/__init__.py">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/luismch158158/holbertonschool-higher_level_programming/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>

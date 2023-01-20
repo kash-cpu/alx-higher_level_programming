@@ -1,76 +1,55 @@
 #!/usr/bin/python3
-'''
-Write the class Square that
-inherits from Rectangle:
-'''
+"""New class of Square"""
+
+
 from models.rectangle import Rectangle
 
 
 class Square(Rectangle):
-    '''
-    Square class inherits from Rectangle
-    '''
+    """Definition Square Class"""
 
     def __init__(self, size, x=0, y=0, id=None):
-        '''
-        Constructor
-        '''
+        """Constructor of Square Class"""
         super().__init__(size, size, x, y, id)
-        self.size = size
+
+    def __str__(self):
+        """The overloading"""
+        return("[Square] ({:d}) {:d}/{:d} - {:d}"
+               .format(self.id, self.x, self.y, self.width))
 
     @property
     def size(self):
-        '''
-        size getter
-        '''
+        """Getter of the size with width"""
         return self.width
 
     @size.setter
     def size(self, value):
-        '''
-        size setter
-        '''
+        """Setter of size using value"""
         self.width = value
         self.height = value
 
     def update(self, *args, **kwargs):
-        '''
-        Makes args variadic
-        '''
-        argc = len(args)
-        if argc > 0:
-            try:
-                self.id = args[0]
-                self.size = args[1]
-                self.x = args[2]
-                self.y = args[3]
-            except BaseException:
-                pass
-        else:
-            if 'id' in kwargs:
-                self.id = kwargs['id']
-            if 'size' in kwargs:
-                self.size = kwargs['size']
-            if 'x' in kwargs:
-                self.x = kwargs['x']
-            if 'y' in kwargs:
-                self.y = kwargs['y']
+        """Update the class Square that
+        assigns an argument to each attribute like: id, size
+        x and y, for *args and **kwargs"""
+        parameters = ["id", "size", "x", "y"]
+        len_param = len(parameters)
+        len_args = len(args)
+        if args and args[0] is not None:
+            final_len = len_param if (len_args > len_param) else len_args
+            for i in range(final_len):
+                setattr(self, parameters[i], args[i])
+        elif kwargs is not None:
+            for key, value in kwargs.items():
+                if (hasattr(self, key)):
+                    setattr(self, key, value)
 
     def to_dictionary(self):
-        '''
-       Pull the parameters out in
-       the function as a dictionary
-        '''
-        return {
-            'id': self.id,
-            'x': self.x,
-            'size': self.size,
-            'y': self.y
-        }
-
-    def __str__(self):
-        '''
-        String representation
-        '''
-        return '[Square] ({}) {}/{} - {}'.format(self.id,
-                                                 self.x, self.y, self.size)
+        """Update the class Square that returns
+        the dictionary representation of a Rectangle"""
+        return ({
+            "id": self.id,
+            "size": self.width,
+            "x": self.x,
+            "y": self.y,
+            })
