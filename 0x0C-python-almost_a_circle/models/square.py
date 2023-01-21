@@ -1,55 +1,49 @@
 #!/usr/bin/python3
-"""New class of Square"""
-
-
+'''Module for Square class.'''
 from models.rectangle import Rectangle
 
 
 class Square(Rectangle):
-    """Definition Square Class"""
+    '''A Square class.'''
 
     def __init__(self, size, x=0, y=0, id=None):
-        """Constructor of Square Class"""
+        '''Constructor.'''
         super().__init__(size, size, x, y, id)
 
     def __str__(self):
-        """The overloading"""
-        return("[Square] ({:d}) {:d}/{:d} - {:d}"
-               .format(self.id, self.x, self.y, self.width))
+        '''Returns string info about this square.'''
+        return '[{}] ({}) {}/{} - {}'.\
+            format(type(self).__name__, self.id, self.x, self.y, self.width)
 
     @property
     def size(self):
-        """Getter of the size with width"""
+        '''Size of this square.'''
         return self.width
 
     @size.setter
     def size(self, value):
-        """Setter of size using value"""
         self.width = value
         self.height = value
 
+    def __update(self, id=None, size=None, x=None, y=None):
+        '''Internal method that updates instance attributes via */**args.'''
+        if id is not None:
+            self.id = id
+        if size is not None:
+            self.size = size
+        if x is not None:
+            self.x = x
+        if y is not None:
+            self.y = y
+
     def update(self, *args, **kwargs):
-        """Update the class Square that
-        assigns an argument to each attribute like: id, size
-        x and y, for *args and **kwargs"""
-        parameters = ["id", "size", "x", "y"]
-        len_param = len(parameters)
-        len_args = len(args)
-        if args and args[0] is not None:
-            final_len = len_param if (len_args > len_param) else len_args
-            for i in range(final_len):
-                setattr(self, parameters[i], args[i])
-        elif kwargs is not None:
-            for key, value in kwargs.items():
-                if (hasattr(self, key)):
-                    setattr(self, key, value)
+        '''Updates instance attributes via no-keyword & keyword args.'''
+        if args:
+            self.__update(*args)
+        elif kwargs:
+            self.__update(**kwargs)
 
     def to_dictionary(self):
-        """Update the class Square that returns
-        the dictionary representation of a Rectangle"""
-        return ({
-            "id": self.id,
-            "size": self.width,
-            "x": self.x,
-            "y": self.y,
-            })
+        '''Returns dictionary representation of this class.'''
+        return {"id": self.id, "size": self.width,
+                "x": self.x, "y": self.y}
